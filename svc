@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Vishnu Medical</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+
+        header {
+            background-color: #004d99;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+        }
+
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: white;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+
+        #offers {
+            background-color: #ffcccc;
+            text-align: center;
+            padding: 30px;
+            margin-bottom: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+
+        footer a {
+            color: #ffcc00;
+            text-decoration: none;
+        }
+
+        .pyramid {
+            text-align: center;
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+
+        .pyramid p {
+            margin: 0;
+        }
+
+        .pyramid .top {
+            font-size: 2em;
+            font-weight: bold;
+            color: #ff3333;
+        }
+
+        .pyramid .middle {
+            font-size: 1.5em;
+            color: #3333ff;
+        }
+
+        .pyramid .bottom {
+            font-size: 1.2em;
+            color: #009900;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Welcome to Vishnu Medical</h1>
+        <p>Your trusted partner in healthcare</p>
+    </header>
+
+    <!-- Offers Section -->
+    <section id="offers">
+        <h2>Exclusive Offer: 25% Discount on All Medicines!</h2>
+        <p>We care about your health and your savings. Shop with us and enjoy significant discounts on your medical needs.</p>
+    </section>
+
+    <!-- Inverted Pyramid Section -->
+    <section class="pyramid">
+        <p class="top">25% Off Medicines</p>
+        <p class="middle">Trusted by Our Community</p>
+        <p class="bottom">Vishnu Medical - Your Health Matters</p>
+    </section>
+
+    <!-- About Me Section -->
+    <section>
+        <h2>About Us</h2>
+        <p>Vishnu Medical is committed to providing affordable healthcare solutions. With our 25% discount on all medicines, we strive to make healthcare accessible to everyone.</p>
+    </section>
+
+    <!-- Contact Section -->
+    <section>
+        <h2>Contact Us</h2>
+        <p>Phone: <a href="tel:8555847611">8555847611</a></p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Vishnu Medical. All rights reserved.</p>
+        <p>Website developed with care.</p>
+    </footer>
+
+</body>
+</html>
